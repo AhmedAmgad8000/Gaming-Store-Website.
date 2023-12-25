@@ -1,0 +1,40 @@
+body{
+    background-color: darkgrey;
+}
+    
+h1{
+    font-style: italic;
+    
+    
+}
+
+img{
+    border-style: outset;
+    border-width: 10px;
+    border-color: black;
+    width: 255px;  
+    height: 255px;
+}
+Img2{
+
+    border-style: outset;
+    border-width: 10px;
+    border-color: black; 
+    width: 255px;  
+    height: 255px;
+}
+Img3{
+
+    border-style: outset;
+    border-width: 10px;
+    border-color: black; 
+    width: 255px;  
+    height: 255px;
+
+
+}
+
+
+
+
+    
